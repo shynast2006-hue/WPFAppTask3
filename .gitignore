@@ -1,0 +1,11 @@
+# Visual Studio and .NET build files
+.vs/
+.idea/
+**/bin/
+**/obj/
+*.user
+*.suo
+
+# Files created by the application
+*.xlsx
+*.xml
